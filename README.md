@@ -1,6 +1,6 @@
 # Data-cleaning
 I. Data Sources
-House data was first week assignment and conducted from google classroom on 02/03/2023
+House data was first week project by client
 II. Data Cleaning Steps
 Removal of duplicate, Zeros, Nones 
 III. Summary 
